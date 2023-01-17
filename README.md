@@ -1,4 +1,4 @@
-# Password Generator
+# Password Generator 🔑
 
 Com o intuito de aprimorar minhas habilidades em Javascript e consequentemente na biblioteca React, desenvolvi um aplicação onde o usuário pode gerar senhas
 de forma aleatória para usar em seus cadastros pela internet a fora.
