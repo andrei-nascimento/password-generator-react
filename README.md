@@ -4,6 +4,6 @@ Com o intuito de aprimorar minhas habilidades em Javascript e consequentemente n
 de forma aleatória para usar em seus cadastros pela internet a fora.
 
 O sistema possui uma diversa cadeia de caracteres, números e símbolos, fazendo com que a senha tenha uma alta proteção. Tudo gerado de forma randômica.
-O layout foi inspirado em um curso de JS que estou realizando na plataforma Scrimba.
+O layout foi inspirado em um curso de JS que estou realizando na plataforma Scrimba e adaptado com algumas melhorias como o Slider para escolher uma senha entre 5 a 15 caracteres.
 
-![gen-pass](https://user-images.githubusercontent.com/76922943/212770740-abf2b905-2e31-4fe4-b945-bd221fc6dc13.png)
+![pass](https://user-images.githubusercontent.com/76922943/212980617-d4e9f8a8-cf04-47ba-af29-abcd6048779c.png)
