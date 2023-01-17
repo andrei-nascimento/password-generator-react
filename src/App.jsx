@@ -42,13 +42,14 @@ function App() {
         <button className='btn-generate-text' onClick={generatePass}>Generate password</button>
       </div>
 
-      <div className='line'/>
-
       {password !== '' && (
+        <>
+        <div className='line'></div>
         <div className='btn-password'>
           <p className='btn-password-text'>{password}</p>
           <button className='btn-copy' onClick={copyPress}>Click to Copy</button>
         </div>
+        </>
       )}
 
     </div>
